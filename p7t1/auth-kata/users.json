@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "email": "Apple@example.com",
+    "passwordHash": "$2b$12$sxpBopP6CgJogNj6abkP.uqhZ5Sh4Z82gf7CSV0AyX/y/KIZwjZay",
+    "createdAt": "2026-10-14T13:21:39.245Z"
+  }
+]

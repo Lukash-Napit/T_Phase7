@@ -1,0 +1,12 @@
+{
+  "name": "auth-kata",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.js",
+    "inspect": "node inspect-db.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
