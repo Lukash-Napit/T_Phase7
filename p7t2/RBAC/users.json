@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "admin@test.com",
+    "passwordHash": "$2a$12$oUV8CHWTn45TB5fKEo2wleaWGzowp4/Azk3CzSx0Axyyhcec7tJKm",
+    "role": "admin",
+    "createdAt": "2026-10-16T13:32:07.421Z"
+  },
+  {
+    "id": 2,
+    "email": "user@test.com",
+    "passwordHash": "$2a$12$gFp8iupSJA8LjPxkZGMDXOeKGZMzs1mI.FyROe.Utt5cwCiXXNbNu",
+    "role": "user",
+    "createdAt": "2026-10-16T13:32:48.236Z"
+  }
+]
