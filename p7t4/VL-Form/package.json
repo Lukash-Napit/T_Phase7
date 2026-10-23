@@ -1,0 +1,14 @@
+{
+  "name": "vulnerable-login",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^18.0.9",
+    "express": "^4.19.2"
+  }
+}
